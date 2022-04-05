@@ -1,7 +1,7 @@
 {
   "name": "TG-GDRIVEBOT",
   "description": "A TELEGRAM BOT TO UPLOAD FILES AND LINKS TO THE USERS GOOGLE DRIVE ACCOUNT OR TEAM DRIVE THAT IS DEPLOYABLE VIA HEROKU",
-  "repository": "https://github.com/thesilentdevka/TG-GDRIVEBOT",
+  "repository": "https://github.com/JaP816/TG-GDRIVEBOT_Heroku",
   "logo": "https://telegra.ph//file/314fe0316b58a94c32857.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
