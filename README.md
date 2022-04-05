@@ -22,7 +22,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thesilentdevka/TG-GDRIVEBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JaP816/TG-GDRIVEBOT_Heroku)
 
 ### Deploy on Railway
 
