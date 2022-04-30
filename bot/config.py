@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files. I was made by @thesilentninja.__\n__If you want to learn more send a  /help.__"
+    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files. I was made by @scm.__\n__If you want to learn more send a  /help.__"
 
     HELP_MSG = [
         ".",
@@ -39,7 +39,7 @@ class Messages:
         
         # Dont remove this ↓ if you respect developer.
          
-        "**CONTACT CREATOR FOR SUPPORT @thesilentninja**"
+        "**CONTACT CREATOR FOR SUPPORT @scm**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
@@ -52,9 +52,9 @@ class Messages:
     
     NOT_AUTH = f"🔑 **You have not authenticated me to upload to any account.**\n__Send /{BotCommands.Authorize[0]} to authenticate.__"
     
-    DOWNLOADED_SUCCESSFULLY = "📤 **Uploading File...**\n**Filename:** ```{}```\n**Size:** ```{}```"
+    DOWNLOADED_SUCCESSFULLY = "📤 **Wait we are uploading...**\n**Filename:** ```{}```\n**Size:** ```{}```"
     
-    UPLOADED_SUCCESSFULLY = "✅ **Uploaded Successfully. Bot by @thesilentninja**\n[{}]({}) __({})__"
+    UPLOADED_SUCCESSFULLY = "✅ **Uploaded Successfully. Bot by @KaungMaLayYal**\n[{}]({}) __({})__"
     
     DOWNLOAD_ERROR = "❗**Downloader Failed**\n{}\n__Link - {}__"
     
@@ -90,7 +90,7 @@ class Messages:
     
     DELETED_SUCCESSFULLY = "🗑️✅ **File Deleted Successfully. Bot by @thesilentninja**\n__File deleted permanently !\nFile id - {}__"
     
-    WENT_WRONG = "⁉️ **ERROR: SOMETHING WENT WRONG**\n__Please try again later or contact @thesilentninja.__"
+    WENT_WRONG = "⁉️ **ERROR: SOMETHING WENT WRONG**\n__Please try again later or contact @Chan Chan.__"
     
     EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
     
