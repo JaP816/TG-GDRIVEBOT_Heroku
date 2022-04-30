@@ -72,7 +72,7 @@ class Messages:
     
     DOWNLOAD_TG_FILE = "📥 **Downloading File...**\n**Filename:** ```{}```\n**Size:** ```{}```\n**MimeType:** ```{}```"
     
-    PARENT_SET_SUCCESS = '🆔✅ **Custom Folder link set successfully. Bot by @thesilentninja**\n__Your custom folder id - {}\nUse__ ```/{} clear``` __to clear it.__'
+    PARENT_SET_SUCCESS = '🆔✅ **Custom Folder link set successfully. Bot by @SCM ထာထာ**\n__Your custom folder id - {}\nUse__ ```/{} clear``` __to clear it.__'
     
     PARENT_CLEAR_SUCCESS = f'🆔🚮 **Custom Folder ID Cleared Successfuly.**\n__Use__ ```/{BotCommands.SetFolder[0]} (Folder Link)``` __to set it back__.'
     
